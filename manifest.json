@@ -1,0 +1,11 @@
+```json
+{
+  "name": "ShopEase Shopping App",
+  "short_name": "ShopEase",
+  "description": "Shop for fashion, electronics, groceries, and more.",
+  "start_url": "./ShopEase.html",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#1565c0"
+}
+```
